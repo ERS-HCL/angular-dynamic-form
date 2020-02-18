@@ -11,7 +11,7 @@ Developer can also configure the API endpoint to connect it with remote apis, th
 4. Configure response DTO
 
 # Demo
-You can find working demo on Netlyfy, check this here [Dynamic-Form](https://ace-microservice.netlify.com) 
+You can find working demo on Netlyfy, check this here [Dynamic-Form](https://ace-microservice.netlify.com) (uid:admin, pwd:admin)
 
 ## Development server
 
